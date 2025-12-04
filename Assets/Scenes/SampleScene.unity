@@ -703,7 +703,7 @@ MonoBehaviour:
   _accelSmoothingSpeed: 1
   _turnSmoothingSpeed: 3
   _speed: 2.5
-  _turnSpeed: 0.4
+  _turnSpeed: 120
   _splineExtrude: {fileID: 23114889}
 --- !u!4 &1639618659
 Transform:
